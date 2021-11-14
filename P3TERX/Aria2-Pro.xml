@@ -9,7 +9,7 @@
   <Project>https://github.com/P3TERX/Docker-Aria2-Pro</Project>
   <Overview>Aria2 Pro | A perfect Aria2 Docker image.</Overview>
   <Category>Downloaders: Tools:</Category>
-  <WebUI>http://ariang.js.org/</WebUI>
+  <WebUI>http://tower.local/</WebUI>
   <Icon>https://cdn.jsdelivr.net/gh/P3TERX/unraid-docker-templates/P3TERX/icons/Aria2-Pro.png</Icon>
   <Description>Aria2 Pro | A perfect Aria2 Docker image.</Description>
   <Networking>
